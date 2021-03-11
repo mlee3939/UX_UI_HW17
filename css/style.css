@@ -60,7 +60,7 @@ p{
 }
 
 .profPic{
-    background-image: url("../images/profilepic.JPG") 
+    background-image: url("../images/profilepic.JPG");
     background-repeat: no-repeat;
     float: right;
     align-items: flex-end;
